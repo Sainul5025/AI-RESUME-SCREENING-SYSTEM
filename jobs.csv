@@ -1,0 +1,201 @@
+job_title,company,location,experience,salary,required_skills,apply_link
+Frontend Developer,TCS,Kolkata,0-1 Years,₹3 LPA - ₹6 LPA,"CSS, Git, Angular, React, Communication",https://tcs.com/careers
+React Developer,Tech Mahindra,Kochi,Fresher,₹3 LPA - ₹5 LPA,"Git, JavaScript, HTML, CSS, Redux, React, Adaptability",https://techmahindra.com/in/careers
+Data Scientist,HCLTech,Pune,0-1 Years,₹4 LPA - ₹7 LPA,"Machine Learning, NumPy, Python, Pandas, Leadership, Problem Solving",https://hcltech.com/careers
+Cloud Engineer,Zoho,Hyderabad,2-4 Years,₹8 LPA - ₹14 LPA,"Kubernetes, Cloud Computing, Linux, Terraform, Google Cloud, Docker, Adaptability",https://zoho.com/careers
+Java Developer,Tech Mahindra,Kolkata,Fresher,₹3 LPA - ₹5 LPA,"Agile, SQL, MySQL, Teamwork, Problem Solving",https://techmahindra.com/careers/openings
+React Developer,HCLTech,Hyderabad,0-1 Years,₹3 LPA - ₹6 LPA,"REST API, HTML, Redux, CSS, Adaptability",https://hcltech.com/careers/openings
+Java Developer,Tech Mahindra,Bengaluru,1-2 Years,₹6 LPA - ₹10 LPA,"Spring Boot, Teamwork, Git, SQL, Agile, Time Management, Adaptability",https://techmahindra.com/in/careers
+Backend Developer,HCLTech,Pune,0-1 Years,₹4 LPA - ₹7 LPA,"Docker, PostgreSQL, Java, Python, REST API, SQL, Critical Thinking",https://hcltech.com/careers
+Frontend Developer,Accenture,Pune,2-4 Years,₹8 LPA - ₹14 LPA,"Bootstrap, Tailwind CSS, Angular, JavaScript, Git, Adaptability",https://accenture.com/careers
+QA Engineer,HCLTech,Noida,Fresher,₹3 LPA - ₹6 LPA,"Automation Testing, PyTest, Selenium, Agile, Manual Testing, Critical Thinking",https://hcltech.com/careers/openings
+Software Engineer,PhonePe,Chennai,0-1 Years,₹4 LPA - ₹7 LPA,"Python, Problem Solving, SQL, Git, Communication",https://phonepe.com/careers/openings
+Data Analyst,Tech Mahindra,Bengaluru,0-1 Years,₹3 LPA - ₹6 LPA,"Communication, Statistics, SQL, Python, Teamwork",https://techmahindra.com/in/careers
+QA Engineer,Capgemini,Kolkata,2-4 Years,₹8 LPA - ₹14 LPA,"PyTest, Postman, Automation Testing, Agile, Bug Tracking, Manual Testing, Communication, Teamwork",https://capgemini.com/jobs
+C++ Developer,Deloitte,Bengaluru,0-1 Years,₹3 LPA - ₹6 LPA,"C++, Problem Solving, Debugging, C, Communication",https://deloitte.com/careers/openings
+C++ Developer,Oracle,Chennai,1-2 Years,₹6 LPA - ₹10 LPA,"Linux, C, Debugging, Git, Critical Thinking",https://oracle.com/in/careers
+DevOps Engineer,IBM,Hyderabad,Fresher,₹3 LPA - ₹6 LPA,"Terraform, Jenkins, Git, Docker, CI/CD, Time Management",https://ibm.com/careers/openings
+Frontend Developer,Tech Mahindra,Chennai,0-1 Years,₹4 LPA - ₹7 LPA,"Bootstrap, JavaScript, Tailwind CSS, React, Critical Thinking",https://techmahindra.com/careers
+Cloud Engineer,Zoho,Hyderabad,Fresher,₹3 LPA - ₹5 LPA,"Docker, Azure, Terraform, Linux, Teamwork, Time Management",https://zoho.com/careers
+Full Stack Developer,PwC,Bengaluru,2-4 Years,₹10 LPA - ₹18 LPA,"SQL, CSS, HTML, Git, Express, Teamwork, Critical Thinking",https://pwc.com/careers/openings
+React Developer,Infosys,Ahmedabad,Fresher,₹3 LPA - ₹6 LPA,"React, CSS, HTML, Git, Communication",https://infosys.com/careers
+Full Stack Developer,Wipro,Ahmedabad,Fresher,₹3 LPA - ₹5 LPA,"React, MongoDB, SQL, CSS, JavaScript, Time Management",https://wipro.com/careers/openings
+Machine Learning Engineer,IBM,Noida,0-1 Years,₹4 LPA - ₹7 LPA,"Scikit-learn, NumPy, Statistics, Git, TensorFlow, Critical Thinking, Communication",https://ibm.com/careers
+Cloud Engineer,PhonePe,Ahmedabad,Fresher,₹3 LPA - ₹5 LPA,"Docker, Kubernetes, Google Cloud, Azure, Linux, AWS, Problem Solving",https://phonepe.com/careers/openings
+Full Stack Developer,Microsoft,Kochi,1-2 Years,₹5 LPA - ₹9 LPA,"Express, SQL, HTML, JavaScript, React, Node.js, Communication",https://careers.microsoft.com/jobs
+Machine Learning Engineer,LTIMindtree,Ahmedabad,0-1 Years,₹4 LPA - ₹7 LPA,"Pandas, Git, TensorFlow, Scikit-learn, Communication",https://ltimindtree.com/in/careers
+Machine Learning Engineer,Infosys,Bengaluru,1-2 Years,₹5 LPA - ₹9 LPA,"Pandas, Machine Learning, NumPy, TensorFlow, Git, Scikit-learn, Communication",https://infosys.com/careers
+Backend Developer,Zoho,Bengaluru,1-2 Years,₹5 LPA - ₹9 LPA,"Java, Node.js, PostgreSQL, Docker, Git, Teamwork, Adaptability",https://zoho.com/jobs
+Frontend Developer,EY,Kochi,2-4 Years,₹8 LPA - ₹14 LPA,"JavaScript, Git, React, HTML, Adaptability",https://ey.com/careers/openings
+DevOps Engineer,Tech Mahindra,Kolkata,0-1 Years,₹3 LPA - ₹6 LPA,"Docker, Terraform, Jenkins, Kubernetes, CI/CD, Problem Solving, Critical Thinking",https://techmahindra.com/jobs
+AI Engineer,TCS,Chennai,2-4 Years,₹10 LPA - ₹18 LPA,"Machine Learning, Computer Vision, Deep Learning, NLP, TensorFlow, Communication, Critical Thinking",https://tcs.com/careers/openings
+Full Stack Developer,Freshworks,Kolkata,Fresher,₹3 LPA - ₹5 LPA,"CSS, HTML, Git, Node.js, MongoDB, JavaScript, Leadership, Teamwork",https://freshworks.com/careers/openings
+Java Developer,Amazon,Bengaluru,0-1 Years,₹4 LPA - ₹7 LPA,"Spring Boot, REST API, SQL, Git, Agile, Adaptability",https://amazon.jobs/careers/openings
+Software Engineer,LTIMindtree,Gurugram,1-2 Years,₹6 LPA - ₹10 LPA,"Problem Solving, Agile, Java, Data Structures, Git, SQL, Adaptability, Critical Thinking",https://ltimindtree.com/jobs
+Flutter Developer,Freshworks,Kolkata,2-4 Years,₹8 LPA - ₹14 LPA,"REST API, Dart, Firebase, iOS, Android, Time Management, Adaptability",https://freshworks.com/jobs
+Software Engineer,Google,Pune,Fresher,₹3 LPA - ₹6 LPA,"Data Structures, Python, Java, SQL, Agile, REST API, Communication",https://careers.google.com/careers
+AI Engineer,Google,Ahmedabad,Fresher,₹3 LPA - ₹6 LPA,"TensorFlow, NLP, Computer Vision, Git, PyTorch, Teamwork, Critical Thinking",https://careers.google.com/careers
+Frontend Developer,Amazon,Chennai,0-1 Years,₹4 LPA - ₹7 LPA,"Git, React, Bootstrap, HTML, Teamwork, Time Management",https://amazon.jobs/careers/openings
+Cloud Engineer,PhonePe,Kochi,2-4 Years,₹10 LPA - ₹18 LPA,"Terraform, Docker, Google Cloud, Azure, Critical Thinking, Leadership",https://phonepe.com/in/careers
+AI Engineer,HCLTech,Mumbai,Fresher,₹3 LPA - ₹6 LPA,"PyTorch, Deep Learning, Computer Vision, Git, Teamwork",https://hcltech.com/jobs
+AI Engineer,PwC,Pune,0-1 Years,₹3 LPA - ₹6 LPA,"Computer Vision, Deep Learning, PyTorch, TensorFlow, NLP, Teamwork",https://pwc.com/in/careers
+SQL Developer,Freshworks,Bengaluru,2-4 Years,₹10 LPA - ₹18 LPA,"PostgreSQL, Git, Database Design, ETL, Time Management",https://freshworks.com/jobs
+Machine Learning Engineer,Amazon,Mumbai,Fresher,₹3 LPA - ₹6 LPA,"Statistics, NumPy, Machine Learning, TensorFlow, Git, Time Management",https://amazon.jobs/careers
+C++ Developer,Amazon,Pune,2-4 Years,₹8 LPA - ₹14 LPA,"Data Structures, Git, Debugging, C, Problem Solving, Critical Thinking",https://amazon.jobs/in/careers
+Machine Learning Engineer,Amazon,Kolkata,Fresher,₹3 LPA - ₹6 LPA,"Python, Scikit-learn, Machine Learning, Git, Critical Thinking",https://amazon.jobs/careers
+AI Engineer,IBM,Bengaluru,0-1 Years,₹3 LPA - ₹6 LPA,"Git, NLP, Python, PyTorch, Time Management",https://ibm.com/careers/openings
+Business Analyst,Capgemini,Ahmedabad,Fresher,₹3 LPA - ₹5 LPA,"SQL, Data Analysis, Stakeholder Management, Power BI, Communication, Time Management, Adaptability",https://capgemini.com/jobs
+C++ Developer,Freshworks,Chennai,Fresher,₹3 LPA - ₹6 LPA,"Linux, C++, Debugging, Problem Solving, C, Data Structures, Communication, Leadership",https://freshworks.com/careers/openings
+Python Developer,Amazon,Mumbai,Fresher,₹3 LPA - ₹6 LPA,"Docker, Flask, SQL, Django, Git, Leadership, Critical Thinking",https://amazon.jobs/in/careers
+Cloud Engineer,Amazon,Ahmedabad,1-2 Years,₹6 LPA - ₹10 LPA,"Azure, Google Cloud, Docker, Terraform, Leadership, Critical Thinking",https://amazon.jobs/in/careers
+Data Scientist,TCS,Mumbai,1-2 Years,₹5 LPA - ₹9 LPA,"NumPy, Pandas, Data Visualization, Statistics, SQL, Leadership, Communication",https://tcs.com/jobs
+C++ Developer,Tech Mahindra,Gurugram,2-4 Years,₹8 LPA - ₹14 LPA,"Git, Problem Solving, Debugging, Linux, C++, Data Structures, Teamwork, Time Management",https://techmahindra.com/jobs
+Data Analyst,Freshworks,Noida,2-4 Years,₹10 LPA - ₹18 LPA,"Data Analysis, Power BI, Communication, Tableau, Statistics, Problem Solving, Teamwork",https://freshworks.com/careers
+React Developer,Deloitte,Hyderabad,0-1 Years,₹3 LPA - ₹6 LPA,"REST API, Redux, TypeScript, CSS, Communication, Teamwork",https://deloitte.com/careers/openings
+AI Engineer,EY,Pune,1-2 Years,₹5 LPA - ₹9 LPA,"Deep Learning, Git, Python, NLP, Computer Vision, TensorFlow, Adaptability",https://ey.com/in/careers
+Frontend Developer,TCS,Ahmedabad,1-2 Years,₹6 LPA - ₹10 LPA,"Tailwind CSS, Vue, CSS, HTML, JavaScript, Communication, Critical Thinking",https://tcs.com/in/careers
+Cybersecurity Analyst,Wipro,Ahmedabad,Fresher,₹3 LPA - ₹5 LPA,"SSL/TLS, Cryptography, Firewall, Network Security, Communication",https://wipro.com/in/careers
+Flutter Developer,PhonePe,Ahmedabad,0-1 Years,₹4 LPA - ₹7 LPA,"Firebase, REST API, Git, iOS, Dart, Leadership",https://phonepe.com/careers
+React Developer,IBM,Kolkata,Fresher,₹3 LPA - ₹5 LPA,"Redux, CSS, React, JavaScript, Time Management",https://ibm.com/in/careers
+Flutter Developer,Google,Kolkata,Fresher,₹3 LPA - ₹5 LPA,"Android, REST API, Firebase, Flutter, iOS, Problem Solving",https://careers.google.com/jobs
+DevOps Engineer,Cognizant,Kochi,0-1 Years,₹3 LPA - ₹6 LPA,"AWS, Docker, Terraform, Kubernetes, Git, Time Management, Communication",https://cognizant.com/in/careers
+Data Analyst,PwC,Kolkata,2-4 Years,₹10 LPA - ₹18 LPA,"SQL, Tableau, Data Analysis, Power BI, Communication, Critical Thinking",https://pwc.com/jobs
+Android Developer,Freshworks,Bengaluru,1-2 Years,₹5 LPA - ₹9 LPA,"REST API, Git, Firebase, Android, Leadership",https://freshworks.com/in/careers
+Cybersecurity Analyst,Wipro,Mumbai,1-2 Years,₹6 LPA - ₹10 LPA,"Firewall, Linux, Network Security, Cybersecurity, Penetration Testing, Adaptability, Time Management",https://wipro.com/careers/openings
+SQL Developer,Zoho,Bengaluru,2-4 Years,₹8 LPA - ₹14 LPA,"PostgreSQL, Git, SQL, Database Design, Data Analysis, Adaptability",https://zoho.com/in/careers
+DevOps Engineer,Infosys,Chennai,1-2 Years,₹6 LPA - ₹10 LPA,"Git, Terraform, Docker, Kubernetes, AWS, Jenkins, Problem Solving",https://infosys.com/in/careers
+Cybersecurity Analyst,Cognizant,Bengaluru,0-1 Years,₹3 LPA - ₹6 LPA,"Cryptography, Network Security, SSL/TLS, Penetration Testing, Linux, Critical Thinking",https://cognizant.com/careers
+Cloud Engineer,Cognizant,Pune,2-4 Years,₹10 LPA - ₹18 LPA,"Kubernetes, Docker, Cloud Computing, Linux, Azure, Terraform, Time Management",https://cognizant.com/jobs
+Flutter Developer,Oracle,Pune,Fresher,₹3 LPA - ₹6 LPA,"REST API, Git, iOS, Flutter, Dart, Critical Thinking, Leadership",https://oracle.com/in/careers
+Backend Developer,Microsoft,Kochi,2-4 Years,₹10 LPA - ₹18 LPA,"PostgreSQL, Docker, SQL, Java, Python, Leadership",https://careers.microsoft.com/in/careers
+AI Engineer,Amazon,Bengaluru,1-2 Years,₹6 LPA - ₹10 LPA,"Computer Vision, TensorFlow, NLP, Machine Learning, Git, Python, Leadership",https://amazon.jobs/careers/openings
+Frontend Developer,Microsoft,Hyderabad,2-4 Years,₹8 LPA - ₹14 LPA,"JavaScript, Bootstrap, Tailwind CSS, Vue, CSS, HTML, Critical Thinking, Problem Solving",https://careers.microsoft.com/careers/openings
+Flutter Developer,PwC,Hyderabad,1-2 Years,₹6 LPA - ₹10 LPA,"Android, iOS, Firebase, Flutter, REST API, Teamwork",https://pwc.com/careers/openings
+AI Engineer,Wipro,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"Deep Learning, NLP, Git, Python, PyTorch, Critical Thinking, Communication",https://wipro.com/careers/openings
+Business Analyst,EY,Gurugram,0-1 Years,₹3 LPA - ₹6 LPA,"Communication, Data Analysis, Excel, Problem Solving, SQL, Power BI, Leadership, Adaptability",https://ey.com/jobs
+Cybersecurity Analyst,Freshworks,Pune,0-1 Years,₹4 LPA - ₹7 LPA,"Firewall, Penetration Testing, SSL/TLS, Network Security, Cybersecurity, Cryptography, Communication",https://freshworks.com/in/careers
+Business Analyst,Freshworks,Kolkata,2-4 Years,₹10 LPA - ₹18 LPA,"Stakeholder Management, Power BI, Excel, Communication, Data Analysis, Teamwork",https://freshworks.com/in/careers
+Android Developer,EY,Ahmedabad,1-2 Years,₹6 LPA - ₹10 LPA,"Firebase, SQLite, REST API, Android, Leadership",https://ey.com/careers
+Flutter Developer,Google,Kolkata,0-1 Years,₹4 LPA - ₹7 LPA,"Android, Dart, Git, REST API, Adaptability",https://careers.google.com/careers
+Java Developer,LTIMindtree,Mumbai,Fresher,₹3 LPA - ₹6 LPA,"SQL, Java, Teamwork, REST API, MySQL, Agile, Teamwork",https://ltimindtree.com/careers/openings
+Software Engineer,Oracle,Kolkata,0-1 Years,₹4 LPA - ₹7 LPA,"Problem Solving, Data Structures, SQL, Python, Git, Teamwork",https://oracle.com/jobs
+SQL Developer,Zoho,Noida,Fresher,₹3 LPA - ₹6 LPA,"PostgreSQL, ETL, SQL, Database Design, Adaptability, Critical Thinking",https://zoho.com/careers/openings
+Android Developer,PwC,Noida,Fresher,₹3 LPA - ₹5 LPA,"Kotlin, Git, SQLite, Android, REST API, Adaptability",https://pwc.com/careers
+Cloud Engineer,LTIMindtree,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"AWS, Google Cloud, Docker, Terraform, Teamwork",https://ltimindtree.com/jobs
+SQL Developer,Microsoft,Noida,2-4 Years,₹8 LPA - ₹14 LPA,"Data Analysis, SQL, Database Design, ETL, MySQL, Adaptability",https://careers.microsoft.com/careers/openings
+React Developer,Microsoft,Mumbai,0-1 Years,₹4 LPA - ₹7 LPA,"TypeScript, CSS, REST API, Redux, Time Management",https://careers.microsoft.com/careers/openings
+React Developer,Cognizant,Mumbai,Fresher,₹3 LPA - ₹5 LPA,"React, REST API, Redux, JavaScript, CSS, TypeScript, Communication",https://cognizant.com/jobs
+Android Developer,IBM,Chennai,1-2 Years,₹5 LPA - ₹9 LPA,"Kotlin, Android, Java, Git, SQLite, REST API, Communication",https://ibm.com/careers
+Backend Developer,TCS,Noida,0-1 Years,₹4 LPA - ₹7 LPA,"Java, MongoDB, Node.js, Python, Leadership, Communication",https://tcs.com/careers
+Cybersecurity Analyst,Microsoft,Noida,Fresher,₹3 LPA - ₹6 LPA,"Cybersecurity, Cryptography, Network Security, Firewall, SSL/TLS, Linux, Time Management",https://careers.microsoft.com/in/careers
+DevOps Engineer,Cognizant,Mumbai,2-4 Years,₹8 LPA - ₹14 LPA,"Linux, CI/CD, Kubernetes, Docker, Problem Solving",https://cognizant.com/careers/openings
+SQL Developer,PhonePe,Kochi,1-2 Years,₹6 LPA - ₹10 LPA,"ETL, Database Design, SQL, Git, PostgreSQL, Data Analysis, Time Management, Teamwork",https://phonepe.com/in/careers
+Data Scientist,Microsoft,Gurugram,2-4 Years,₹8 LPA - ₹14 LPA,"Data Visualization, Pandas, Statistics, Scikit-learn, SQL, Adaptability",https://careers.microsoft.com/in/careers
+C++ Developer,Wipro,Hyderabad,Fresher,₹3 LPA - ₹6 LPA,"Problem Solving, Debugging, Data Structures, C, Leadership",https://wipro.com/careers/openings
+Frontend Developer,Amazon,Noida,2-4 Years,₹8 LPA - ₹14 LPA,"Angular, Vue, HTML, Git, Tailwind CSS, Teamwork",https://amazon.jobs/in/careers
+AI Engineer,Cognizant,Noida,1-2 Years,₹5 LPA - ₹9 LPA,"TensorFlow, Computer Vision, Git, PyTorch, Python, Communication, Teamwork",https://cognizant.com/careers/openings
+Data Analyst,Deloitte,Noida,Fresher,₹3 LPA - ₹5 LPA,"Statistics, SQL, Excel, Communication, Adaptability",https://deloitte.com/jobs
+SQL Developer,Amazon,Mumbai,1-2 Years,₹5 LPA - ₹9 LPA,"PostgreSQL, Data Analysis, Git, SQL, Database Design, Teamwork",https://amazon.jobs/careers
+C++ Developer,HCLTech,Mumbai,2-4 Years,₹10 LPA - ₹18 LPA,"Git, Debugging, Data Structures, C, Linux, C++, Time Management, Communication",https://hcltech.com/careers/openings
+Android Developer,Google,Kochi,1-2 Years,₹5 LPA - ₹9 LPA,"REST API, Git, Kotlin, SQLite, Problem Solving",https://careers.google.com/jobs
+Backend Developer,HCLTech,Kolkata,1-2 Years,₹5 LPA - ₹9 LPA,"Git, Docker, Python, PostgreSQL, Leadership, Adaptability",https://hcltech.com/jobs
+Software Engineer,Zoho,Noida,Fresher,₹3 LPA - ₹6 LPA,"Python, Git, Agile, REST API, Data Structures, Java, Leadership, Time Management",https://zoho.com/in/careers
+Data Analyst,Cognizant,Gurugram,Fresher,₹3 LPA - ₹6 LPA,"Communication, Statistics, Data Analysis, Power BI, Time Management",https://cognizant.com/careers
+AI Engineer,Amazon,Ahmedabad,2-4 Years,₹8 LPA - ₹14 LPA,"PyTorch, NLP, Deep Learning, Machine Learning, Computer Vision, Communication",https://amazon.jobs/careers
+Software Engineer,Oracle,Chennai,1-2 Years,₹6 LPA - ₹10 LPA,"SQL, Java, Python, REST API, Agile, Data Structures, Leadership",https://oracle.com/jobs
+C++ Developer,Capgemini,Mumbai,2-4 Years,₹10 LPA - ₹18 LPA,"Linux, Problem Solving, Debugging, Data Structures, Git, C, Time Management",https://capgemini.com/careers
+Cybersecurity Analyst,Microsoft,Kolkata,1-2 Years,₹5 LPA - ₹9 LPA,"Cryptography, Network Security, Firewall, Penetration Testing, Cybersecurity, Communication",https://careers.microsoft.com/careers/openings
+Data Analyst,Wipro,Hyderabad,2-4 Years,₹10 LPA - ₹18 LPA,"SQL, Tableau, Python, Excel, Power BI, Statistics, Leadership, Teamwork",https://wipro.com/careers
+Cloud Engineer,Cognizant,Noida,Fresher,₹3 LPA - ₹5 LPA,"Docker, Linux, Terraform, Cloud Computing, Problem Solving",https://cognizant.com/careers/openings
+Data Analyst,PwC,Gurugram,1-2 Years,₹5 LPA - ₹9 LPA,"Data Analysis, SQL, Power BI, Statistics, Tableau, Excel, Adaptability, Critical Thinking",https://pwc.com/jobs
+Data Scientist,Wipro,Ahmedabad,0-1 Years,₹4 LPA - ₹7 LPA,"Data Visualization, Machine Learning, SQL, Python, Pandas, Adaptability, Problem Solving",https://wipro.com/jobs
+Software Engineer,Wipro,Gurugram,1-2 Years,₹5 LPA - ₹9 LPA,"Problem Solving, Java, REST API, SQL, Git, Teamwork",https://wipro.com/jobs
+Backend Developer,Wipro,Kolkata,Fresher,₹3 LPA - ₹5 LPA,"REST API, Java, MongoDB, SQL, Python, Docker, Critical Thinking",https://wipro.com/jobs
+Cloud Engineer,Infosys,Gurugram,1-2 Years,₹5 LPA - ₹9 LPA,"Kubernetes, Cloud Computing, Linux, Docker, Azure, Problem Solving",https://infosys.com/in/careers
+React Developer,EY,Ahmedabad,2-4 Years,₹10 LPA - ₹18 LPA,"Git, CSS, REST API, HTML, JavaScript, Critical Thinking",https://ey.com/jobs
+Machine Learning Engineer,Infosys,Mumbai,1-2 Years,₹5 LPA - ₹9 LPA,"Machine Learning, Scikit-learn, Python, Git, Statistics, Pandas, Critical Thinking",https://infosys.com/in/careers
+C++ Developer,Tech Mahindra,Mumbai,1-2 Years,₹5 LPA - ₹9 LPA,"C++, Git, Linux, Data Structures, Debugging, Communication, Problem Solving",https://techmahindra.com/jobs
+Python Developer,Deloitte,Hyderabad,1-2 Years,₹5 LPA - ₹9 LPA,"Python, Git, PostgreSQL, SQL, Critical Thinking",https://deloitte.com/in/careers
+Cloud Engineer,PhonePe,Bengaluru,Fresher,₹3 LPA - ₹5 LPA,"Docker, Cloud Computing, Azure, Kubernetes, Terraform, Critical Thinking",https://phonepe.com/careers/openings
+AI Engineer,LTIMindtree,Hyderabad,Fresher,₹3 LPA - ₹5 LPA,"Git, Python, Computer Vision, TensorFlow, NLP, Adaptability",https://ltimindtree.com/jobs
+Data Analyst,Amazon,Bengaluru,1-2 Years,₹5 LPA - ₹9 LPA,"Statistics, Excel, Data Analysis, SQL, Power BI, Python, Time Management",https://amazon.jobs/in/careers
+Java Developer,PwC,Noida,1-2 Years,₹5 LPA - ₹9 LPA,"Spring Boot, SQL, Teamwork, Java, Agile, Communication",https://pwc.com/careers/openings
+QA Engineer,Deloitte,Pune,2-4 Years,₹10 LPA - ₹18 LPA,"Automation Testing, Bug Tracking, Manual Testing, Selenium, PyTest, JUnit, Teamwork, Communication",https://deloitte.com/jobs
+Java Developer,Deloitte,Kolkata,2-4 Years,₹10 LPA - ₹18 LPA,"Java, Agile, REST API, Spring Boot, SQL, Critical Thinking, Communication",https://deloitte.com/careers/openings
+Machine Learning Engineer,Cognizant,Noida,2-4 Years,₹10 LPA - ₹18 LPA,"Git, TensorFlow, Scikit-learn, Machine Learning, Statistics, NumPy, Problem Solving, Leadership",https://cognizant.com/careers/openings
+C++ Developer,Amazon,Hyderabad,2-4 Years,₹8 LPA - ₹14 LPA,"Data Structures, Debugging, C++, Linux, C, Problem Solving, Time Management, Leadership",https://amazon.jobs/in/careers
+Full Stack Developer,Microsoft,Noida,2-4 Years,₹8 LPA - ₹14 LPA,"HTML, CSS, Node.js, Express, JavaScript, SQL, Problem Solving, Leadership",https://careers.microsoft.com/jobs
+Python Developer,Accenture,Ahmedabad,2-4 Years,₹8 LPA - ₹14 LPA,"Django, SQL, PostgreSQL, REST API, Problem Solving, Time Management",https://accenture.com/careers
+Flutter Developer,Accenture,Mumbai,1-2 Years,₹6 LPA - ₹10 LPA,"iOS, Flutter, Git, Dart, REST API, Time Management, Problem Solving",https://accenture.com/careers/openings
+AI Engineer,Cognizant,Bengaluru,0-1 Years,₹4 LPA - ₹7 LPA,"Computer Vision, PyTorch, Python, Deep Learning, Git, TensorFlow, Teamwork, Leadership",https://cognizant.com/careers/openings
+Cybersecurity Analyst,IBM,Hyderabad,0-1 Years,₹3 LPA - ₹6 LPA,"Cybersecurity, Linux, Penetration Testing, Network Security, Firewall, Adaptability, Problem Solving",https://ibm.com/careers
+QA Engineer,Zoho,Kolkata,1-2 Years,₹5 LPA - ₹9 LPA,"Automation Testing, Bug Tracking, Agile, JUnit, Manual Testing, Selenium, Critical Thinking",https://zoho.com/jobs
+AI Engineer,Google,Bengaluru,1-2 Years,₹6 LPA - ₹10 LPA,"Deep Learning, PyTorch, Python, NLP, Git, Adaptability, Critical Thinking",https://careers.google.com/in/careers
+Software Engineer,Amazon,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"Java, Git, REST API, Problem Solving, SQL, Critical Thinking",https://amazon.jobs/jobs
+Backend Developer,Amazon,Kochi,Fresher,₹3 LPA - ₹5 LPA,"Java, MongoDB, Python, Docker, PostgreSQL, REST API, Leadership, Problem Solving",https://amazon.jobs/careers
+Machine Learning Engineer,IBM,Kochi,1-2 Years,₹5 LPA - ₹9 LPA,"Pandas, Git, Statistics, Python, Machine Learning, Scikit-learn, Teamwork",https://ibm.com/careers/openings
+Android Developer,Infosys,Bengaluru,Fresher,₹3 LPA - ₹5 LPA,"Firebase, Git, Android, Java, SQLite, REST API, Time Management",https://infosys.com/careers/openings
+Data Analyst,Google,Chennai,2-4 Years,₹10 LPA - ₹18 LPA,"Excel, Data Analysis, SQL, Communication, Tableau, Time Management, Critical Thinking",https://careers.google.com/jobs
+Data Scientist,PhonePe,Pune,1-2 Years,₹6 LPA - ₹10 LPA,"Statistics, NumPy, Machine Learning, Pandas, Python, Scikit-learn, Time Management",https://phonepe.com/careers
+Machine Learning Engineer,Microsoft,Chennai,0-1 Years,₹3 LPA - ₹6 LPA,"Pandas, TensorFlow, Git, Statistics, Critical Thinking",https://careers.microsoft.com/jobs
+Data Scientist,Freshworks,Noida,0-1 Years,₹3 LPA - ₹6 LPA,"Scikit-learn, NumPy, Pandas, Data Visualization, Python, Time Management",https://freshworks.com/in/careers
+AI Engineer,IBM,Ahmedabad,1-2 Years,₹5 LPA - ₹9 LPA,"PyTorch, TensorFlow, Git, Computer Vision, Leadership, Communication",https://ibm.com/careers
+DevOps Engineer,Accenture,Kolkata,1-2 Years,₹6 LPA - ₹10 LPA,"Docker, Jenkins, Git, CI/CD, Kubernetes, Leadership, Problem Solving",https://accenture.com/careers
+SQL Developer,Oracle,Mumbai,1-2 Years,₹5 LPA - ₹9 LPA,"SQL, Database Design, PostgreSQL, ETL, Critical Thinking, Teamwork",https://oracle.com/jobs
+Flutter Developer,Oracle,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"Dart, Android, REST API, Firebase, Teamwork, Leadership",https://oracle.com/jobs
+Data Scientist,PhonePe,Noida,0-1 Years,₹4 LPA - ₹7 LPA,"SQL, Scikit-learn, Pandas, Data Visualization, NumPy, Statistics, Time Management, Communication",https://phonepe.com/careers/openings
+Data Scientist,Cognizant,Gurugram,1-2 Years,₹5 LPA - ₹9 LPA,"Scikit-learn, Pandas, Statistics, SQL, Machine Learning, Data Visualization, Leadership",https://cognizant.com/in/careers
+Full Stack Developer,Oracle,Ahmedabad,2-4 Years,₹8 LPA - ₹14 LPA,"MongoDB, JavaScript, SQL, HTML, Git, React, Time Management",https://oracle.com/careers/openings
+DevOps Engineer,Accenture,Gurugram,0-1 Years,₹4 LPA - ₹7 LPA,"Git, Terraform, Linux, Docker, Kubernetes, AWS, Leadership",https://accenture.com/careers/openings
+Cybersecurity Analyst,Oracle,Gurugram,1-2 Years,₹5 LPA - ₹9 LPA,"Cryptography, Firewall, SSL/TLS, Linux, Penetration Testing, Leadership, Time Management",https://oracle.com/jobs
+AI Engineer,HCLTech,Kochi,1-2 Years,₹5 LPA - ₹9 LPA,"PyTorch, NLP, Machine Learning, TensorFlow, Deep Learning, Problem Solving, Leadership",https://hcltech.com/careers/openings
+Data Analyst,Cognizant,Ahmedabad,2-4 Years,₹10 LPA - ₹18 LPA,"Power BI, Communication, SQL, Statistics, Data Analysis, Time Management, Adaptability",https://cognizant.com/careers/openings
+Cybersecurity Analyst,IBM,Chennai,1-2 Years,₹6 LPA - ₹10 LPA,"Network Security, Cryptography, Linux, Cybersecurity, Communication",https://ibm.com/jobs
+AI Engineer,Infosys,Hyderabad,2-4 Years,₹10 LPA - ₹18 LPA,"Git, Python, NLP, Machine Learning, Computer Vision, Deep Learning, Time Management",https://infosys.com/in/careers
+Cybersecurity Analyst,IBM,Kolkata,1-2 Years,₹6 LPA - ₹10 LPA,"Network Security, SSL/TLS, Cryptography, Cybersecurity, Firewall, Linux, Time Management",https://ibm.com/jobs
+Java Developer,PwC,Mumbai,0-1 Years,₹4 LPA - ₹7 LPA,"Java, SQL, Git, REST API, Problem Solving",https://pwc.com/careers/openings
+Cloud Engineer,Zoho,Kochi,2-4 Years,₹8 LPA - ₹14 LPA,"Terraform, Google Cloud, Azure, AWS, Cloud Computing, Kubernetes, Adaptability, Problem Solving",https://zoho.com/jobs
+Python Developer,Deloitte,Kolkata,0-1 Years,₹3 LPA - ₹6 LPA,"PostgreSQL, Problem Solving, Git, Flask, Python, SQL, Teamwork",https://deloitte.com/jobs
+Cybersecurity Analyst,Deloitte,Chennai,Fresher,₹3 LPA - ₹6 LPA,"Cybersecurity, Penetration Testing, Firewall, Cryptography, SSL/TLS, Problem Solving",https://deloitte.com/careers/openings
+AI Engineer,Infosys,Hyderabad,2-4 Years,₹10 LPA - ₹18 LPA,"Computer Vision, NLP, PyTorch, Deep Learning, Adaptability",https://infosys.com/careers/openings
+Business Analyst,PhonePe,Chennai,0-1 Years,₹3 LPA - ₹6 LPA,"Excel, Communication, Data Analysis, Power BI, Stakeholder Management, Critical Thinking, Leadership",https://phonepe.com/jobs
+AI Engineer,PhonePe,Hyderabad,2-4 Years,₹10 LPA - ₹18 LPA,"Machine Learning, Python, PyTorch, NLP, Leadership",https://phonepe.com/jobs
+Full Stack Developer,Deloitte,Kochi,2-4 Years,₹8 LPA - ₹14 LPA,"MongoDB, Git, JavaScript, SQL, Express, CSS, Teamwork, Leadership",https://deloitte.com/in/careers
+Cloud Engineer,Freshworks,Bengaluru,2-4 Years,₹10 LPA - ₹18 LPA,"AWS, Docker, Google Cloud, Terraform, Azure, Linux, Communication",https://freshworks.com/in/careers
+Business Analyst,Wipro,Kochi,Fresher,₹3 LPA - ₹5 LPA,"SQL, Power BI, Communication, Excel, Stakeholder Management, Problem Solving, Time Management",https://wipro.com/in/careers
+SQL Developer,PwC,Hyderabad,0-1 Years,₹4 LPA - ₹7 LPA,"MySQL, ETL, Database Design, Git, Critical Thinking",https://pwc.com/careers
+Python Developer,LTIMindtree,Mumbai,2-4 Years,₹10 LPA - ₹18 LPA,"SQL, Docker, Flask, Django, Teamwork, Adaptability",https://ltimindtree.com/careers
+Java Developer,Amazon,Ahmedabad,Fresher,₹3 LPA - ₹5 LPA,"Spring Boot, Java, Git, Agile, Leadership, Adaptability",https://amazon.jobs/careers
+AI Engineer,Infosys,Gurugram,2-4 Years,₹8 LPA - ₹14 LPA,"TensorFlow, Computer Vision, Python, Machine Learning, Deep Learning, NLP, Leadership, Critical Thinking",https://infosys.com/careers/openings
+AI Engineer,LTIMindtree,Pune,0-1 Years,₹4 LPA - ₹7 LPA,"PyTorch, Python, Git, NLP, Machine Learning, Leadership, Time Management",https://ltimindtree.com/careers
+Business Analyst,PwC,Kochi,1-2 Years,₹6 LPA - ₹10 LPA,"Excel, Power BI, Communication, Stakeholder Management, Problem Solving, Teamwork, Critical Thinking",https://pwc.com/careers/openings
+Backend Developer,Microsoft,Bengaluru,2-4 Years,₹10 LPA - ₹18 LPA,"PostgreSQL, Java, SQL, Python, Git, REST API, Adaptability, Communication",https://careers.microsoft.com/in/careers
+Business Analyst,Wipro,Kochi,0-1 Years,₹3 LPA - ₹6 LPA,"Communication, Problem Solving, Data Analysis, SQL, Stakeholder Management, Critical Thinking",https://wipro.com/jobs
+Cybersecurity Analyst,IBM,Noida,1-2 Years,₹5 LPA - ₹9 LPA,"Cybersecurity, Linux, Network Security, Penetration Testing, Adaptability",https://ibm.com/jobs
+SQL Developer,Tech Mahindra,Kochi,1-2 Years,₹6 LPA - ₹10 LPA,"Database Design, ETL, PostgreSQL, Data Analysis, MySQL, Leadership, Time Management",https://techmahindra.com/in/careers
+Frontend Developer,Google,Noida,0-1 Years,₹4 LPA - ₹7 LPA,"Bootstrap, HTML, Angular, CSS, Vue, Problem Solving",https://careers.google.com/in/careers
+Data Analyst,Accenture,Chennai,1-2 Years,₹5 LPA - ₹9 LPA,"Tableau, Communication, Python, Power BI, Data Analysis, Adaptability, Critical Thinking",https://accenture.com/in/careers
+Cloud Engineer,Capgemini,Noida,0-1 Years,₹3 LPA - ₹6 LPA,"Terraform, Azure, Kubernetes, AWS, Linux, Docker, Critical Thinking",https://capgemini.com/careers
+DevOps Engineer,Accenture,Chennai,Fresher,₹3 LPA - ₹5 LPA,"Jenkins, CI/CD, Git, AWS, Leadership",https://accenture.com/in/careers
+Cybersecurity Analyst,TCS,Bengaluru,2-4 Years,₹8 LPA - ₹14 LPA,"Cryptography, Linux, Firewall, SSL/TLS, Leadership",https://tcs.com/in/careers
+Full Stack Developer,Cognizant,Hyderabad,0-1 Years,₹3 LPA - ₹6 LPA,"Express, SQL, CSS, Node.js, Critical Thinking, Time Management",https://cognizant.com/careers
+Business Analyst,PwC,Mumbai,0-1 Years,₹3 LPA - ₹6 LPA,"Problem Solving, SQL, Stakeholder Management, Data Analysis, Excel, Time Management, Leadership",https://pwc.com/in/careers
+Java Developer,TCS,Pune,Fresher,₹3 LPA - ₹6 LPA,"REST API, Git, Java, Agile, Teamwork, Teamwork",https://tcs.com/in/careers
+Machine Learning Engineer,Infosys,Hyderabad,1-2 Years,₹5 LPA - ₹9 LPA,"NumPy, Python, Machine Learning, Pandas, Critical Thinking",https://infosys.com/in/careers
+C++ Developer,LTIMindtree,Pune,0-1 Years,₹4 LPA - ₹7 LPA,"Linux, Data Structures, Git, C, Problem Solving, C++, Communication, Critical Thinking",https://ltimindtree.com/in/careers
+AI Engineer,Wipro,Noida,2-4 Years,₹10 LPA - ₹18 LPA,"PyTorch, Computer Vision, TensorFlow, NLP, Problem Solving",https://wipro.com/in/careers
+DevOps Engineer,Capgemini,Ahmedabad,2-4 Years,₹8 LPA - ₹14 LPA,"CI/CD, Terraform, Kubernetes, Docker, Git, Linux, Time Management",https://capgemini.com/jobs
+SQL Developer,Deloitte,Noida,Fresher,₹3 LPA - ₹5 LPA,"PostgreSQL, Database Design, Git, ETL, Teamwork",https://deloitte.com/careers
+Full Stack Developer,Amazon,Mumbai,2-4 Years,₹8 LPA - ₹14 LPA,"React, HTML, SQL, JavaScript, Critical Thinking, Time Management",https://amazon.jobs/careers
+Data Analyst,Amazon,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"Power BI, Data Analysis, Tableau, Excel, Python, Statistics, Problem Solving, Time Management",https://amazon.jobs/jobs
+C++ Developer,Capgemini,Gurugram,1-2 Years,₹6 LPA - ₹10 LPA,"Git, C++, Data Structures, Linux, Problem Solving, Leadership, Critical Thinking",https://capgemini.com/jobs
+Cloud Engineer,Cognizant,Pune,1-2 Years,₹5 LPA - ₹9 LPA,"Linux, Cloud Computing, Kubernetes, Docker, Google Cloud, Problem Solving, Time Management",https://cognizant.com/jobs
+Data Analyst,Deloitte,Ahmedabad,0-1 Years,₹4 LPA - ₹7 LPA,"Power BI, Tableau, Communication, Data Analysis, Statistics, Problem Solving",https://deloitte.com/in/careers
+Machine Learning Engineer,PwC,Noida,Fresher,₹3 LPA - ₹5 LPA,"Scikit-learn, NumPy, Pandas, Python, TensorFlow, Git, Time Management",https://pwc.com/careers/openings
+C++ Developer,Amazon,Mumbai,0-1 Years,₹4 LPA - ₹7 LPA,"Data Structures, Problem Solving, C, Git, Communication, Time Management",https://amazon.jobs/in/careers
+Android Developer,PwC,Kochi,2-4 Years,₹8 LPA - ₹14 LPA,"SQLite, Git, Firebase, Kotlin, REST API, Adaptability",https://pwc.com/careers/openings
+Full Stack Developer,PhonePe,Bengaluru,2-4 Years,₹10 LPA - ₹18 LPA,"React, JavaScript, Git, Node.js, Express, Time Management",https://phonepe.com/careers/openings
+SQL Developer,Microsoft,Ahmedabad,0-1 Years,₹4 LPA - ₹7 LPA,"Database Design, SQL, PostgreSQL, Git, Communication",https://careers.microsoft.com/jobs
+Business Analyst,LTIMindtree,Noida,2-4 Years,₹8 LPA - ₹14 LPA,"Communication, Power BI, Stakeholder Management, SQL, Excel, Problem Solving, Communication, Problem Solving",https://ltimindtree.com/careers
+Frontend Developer,TCS,Noida,Fresher,₹3 LPA - ₹5 LPA,"React, JavaScript, Angular, CSS, Tailwind CSS, Git, Teamwork, Time Management",https://tcs.com/jobs
+Full Stack Developer,Amazon,Gurugram,Fresher,₹3 LPA - ₹5 LPA,"CSS, Express, JavaScript, HTML, React, Problem Solving",https://amazon.jobs/careers
